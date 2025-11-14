@@ -1,8 +1,3 @@
-PROJECT TITLE: AirBnB London Data Set Loader
-PURPOSE OF PROJECT: To load the AirBnB London data set from the provided csv file into a Java data structure
-HOW TO START THIS PROJECT: Use the method 'load' in the the class 'AirbnbDataLoader'
-AUTHORS: KCL Informatics, PPA
-
 # Airbnb London Data Visualization Platform
 
 > An interactive JavaFX application for exploring and analyzing 50,000+ Airbnb listings across London's 33 boroughs with real-time filtering, geospatial analytics, and dynamic visualizations.
@@ -382,4 +377,5 @@ Interested in discussing this project or potential collaborations?
 ### ⭐ If you find this project interesting, please consider giving it a star!
 
 **Note**: This project demonstrates practical application of software engineering principles and serves as a showcase of Java development, GUI programming, and algorithm implementation skills suitable for entry-level software engineering positions.
+
 
